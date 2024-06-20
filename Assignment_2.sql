@@ -22,7 +22,7 @@ group by ProductID
 -- 6. Write a query to list the sum of products in the Production.ProductInventory table and LocationID set to 40 and limit the result to include just summarized quantities less than 100.
 --               ProductID    TheSum
 --               -----------        ----------
-select ProductID, SUM(Quantity) as Total from Production.ProductInventory 
+select ProductID, SUM(Quantity) as TheSum from Production.ProductInventory 
 where LocationID=40
 group by ProductID
 having SUM(Quantity)<100
@@ -30,7 +30,7 @@ having SUM(Quantity)<100
 -- 7.    Write a query to list the sum of products with the shelf information in the Production.ProductInventory table and LocationID set to 40 and limit the result to include just summarized quantities less than 100
 --     Shelf      ProductID    TheSum
 --     ----------   -----------        -----------
-select ProductID,Shelf, SUM(Quantity) as Total from Production.ProductInventory 
+select Shelf,ProductID, SUM(Quantity) as TheSum from Production.ProductInventory 
 where LocationID=40
 group by ProductID,Shelf
 having SUM(Quantity)<100
@@ -42,13 +42,13 @@ group by ProductID
 -- 9.    Write query  to see the average quantity  of  products by shelf  from the table Production.ProductInventory
 --     ProductID   Shelf      TheAvg
 --     ----------- ---------- -----------
-select ProductID, Shelf, AVG(Quantity) from Production.ProductInventory
+select ProductID, Shelf, AVG(Quantity) as TheAvg from Production.ProductInventory
 group by ProductID, Shelf
 
 -- 10.  Write query  to see the average quantity  of  products by shelf excluding rows that has the value of N/A in the column Shelf from the table Production.ProductInventory
 --     ProductID   Shelf      TheAvg
 --     ----------- ---------- -----------
-select ProductID, Shelf, AVG(Quantity) from Production.ProductInventory
+select ProductID, Shelf, AVG(Quantity) as TheAvg from Production.ProductInventory
 where Shelf!='N/A'
 group by ProductID, Shelf
 
