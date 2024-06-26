@@ -1,0 +1,55 @@
+C# Assignment-1
+
+### Understanding Data Types ###
+
+1. What type would you choose for the following “numbers”?
+A person’s telephone number: string because it might contain country code with +1
+A person’s height: float/double
+A person’s age: int
+A person’s gender (Male, Female, Prefer Not To Answer): string
+A person’s salary: decimal
+A book’s ISBN: string
+A book’s price: decimal
+A book’s shipping weight: float/double
+A country’s population: long
+The number of stars in the universe: long
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business): int
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+
+Value Type
+•	Stored in stack memory
+•	Can not be collected by garbage collector
+•	Directly hold the value
+•	Created by struct/enum
+•	Can not accept NULL values 
+ 
+Reference Type
+•	Stored in heap memory
+•	Can be collected by garbage collector
+•	Hold memory_address/reference of the variable
+•	Created by string/array/class/interface/delegate
+•	Can accept NULL values
+
+Boxing: The process of converting a value type to a reference type by wrapping it inside an object. 
+For example, converting an int to an object.
+
+Unboxing: The process of converting a reference type back to a value type. 
+For example, converting an object back to an int.
+
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+
+Managed Resources:
+Resources that are handled by the .NET runtime's garbage collector (GC).
+
+Unmanaged Resources:
+Resources that the .NET GC does not handle and require explicit cleanup.
+
+4. Whats the purpose of Garbage Collector in .NET?
+•	Automatic Memory Management
+•	Prevents Memory Leaks
+•	Optimizes Memory Usage
+•	Handles Object Lifetimes

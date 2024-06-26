@@ -1,0 +1,44 @@
+C# Assignment-1
+
+### Controlling Flow and Converting Types ###
+
+1. What happens when you divide an int variable by 0? 
+Error: Division by constant zero
+
+2. What happens when you divide a double variable by 0?
+No Error: Results in either positive or negative infinity
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+Error: Cannot implicitly convert type 'long' to 'int'. An explicit conversion exists (are you missing a cast?)
+
+4. What is the difference between x = y++; and x = ++y;?
+    •	x = y++ (postfix increment operator) 
+        x is assigned the value of y before y is incremented
+    •	x = ++y (prefix increment operator) 
+        y is incremented first, and then x is assigned the value of y
+
+5. What is the difference between break, continue, and return when used inside a loop statement?
+•	break: Exits the loop immediately and transfers control to the statement following the loop.
+•	continue: Skips the remaining code inside the loop for the current iteration and jumps to the next iteration of the loop.
+•	return: Exits the entire method immediately and returns control to the caller method, optionally returning a value.
+
+6. What are the three parts of a for statement and which of them are required?
+    1.	Initialization: Executed once before the loop starts.
+    2.	Condition: Evaluated before each iteration; if false, the loop exits.
+    3.	Iteration: Executed at the end of each loop iteration.
+All three parts are optional, but at least the condition part should be there to avoid an infinite loop if no break condition is provided.
+
+7. What is the difference between the = and == operators?
+= (Assignment operator): Assign a value to a variable.
+== (Equality operator): Compare two values for equality.
+
+8. Does the following statement compile? for ( ; true; ) ;
+Yes, this statement compiles. It creates an infinite loop because the condition true is always true, and the loop has no body due to the semicolon (;)
+
+9. What does the underscore _ represent in a switch expression?
+It represents the default case, i.e., when no other pattern matches
+
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+An object must implement the IEnumerable or IEnumerable<T> interface to be enumerated over by using the foreach statement
