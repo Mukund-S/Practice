@@ -1,0 +1,14 @@
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.deps.json
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.runtimeconfig.json
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.dll
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.pdb
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfoInputs.cache
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfo.cs
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.dll
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/refint/Assignment3.dll
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.pdb
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.genruntimeconfig.cache
+/Users/mukundsharma/Documents/Antra/Assignment3/Assignment3/obj/Debug/net8.0/ref/Assignment3.dll
