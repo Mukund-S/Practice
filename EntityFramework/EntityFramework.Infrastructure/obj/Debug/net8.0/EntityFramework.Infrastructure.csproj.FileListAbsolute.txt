@@ -1,0 +1,17 @@
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.deps.json
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.runtimeconfig.json
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.AssemblyReference.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfoInputs.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfo.cs
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFr.C7757ED8.Up2Date
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/refint/EntityFramework.Infrastructure.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.genruntimeconfig.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Infrastructure/obj/Debug/net8.0/ref/EntityFramework.Infrastructure.dll

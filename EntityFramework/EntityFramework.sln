@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Presentation", "EntityFramework.Presentation\EntityFramework.Presentation.csproj", "{94FFC1AE-EBFD-485F-9A01-A672BCABF439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Core", "EntityFramework.Core\EntityFramework.Core.csproj", "{8DA02A38-10D4-4E39-8019-CE971F41E2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework.Infrastructure", "EntityFramework.Infrastructure\EntityFramework.Infrastructure.csproj", "{9EB08D55-69B2-47F7-8DE6-4EB051409803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FFC1AE-EBFD-485F-9A01-A672BCABF439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FFC1AE-EBFD-485F-9A01-A672BCABF439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FFC1AE-EBFD-485F-9A01-A672BCABF439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FFC1AE-EBFD-485F-9A01-A672BCABF439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA02A38-10D4-4E39-8019-CE971F41E2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA02A38-10D4-4E39-8019-CE971F41E2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA02A38-10D4-4E39-8019-CE971F41E2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA02A38-10D4-4E39-8019-CE971F41E2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB08D55-69B2-47F7-8DE6-4EB051409803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB08D55-69B2-47F7-8DE6-4EB051409803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB08D55-69B2-47F7-8DE6-4EB051409803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB08D55-69B2-47F7-8DE6-4EB051409803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

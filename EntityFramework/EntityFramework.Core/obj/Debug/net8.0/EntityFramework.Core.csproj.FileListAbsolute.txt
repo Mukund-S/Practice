@@ -1,0 +1,14 @@
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.deps.json
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.runtimeconfig.json
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.AssemblyReference.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfoInputs.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfo.cs
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.CoreCompileInputs.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/refint/EntityFramework.Core.dll
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.pdb
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.genruntimeconfig.cache
+/Users/mukundsharma/Documents/Antra/EntityFramework/EntityFramework.Core/obj/Debug/net8.0/ref/EntityFramework.Core.dll
