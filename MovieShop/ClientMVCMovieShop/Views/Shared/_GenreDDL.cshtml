@@ -1,0 +1,18 @@
+@model HomePageViewModel
+
+<div class="container">
+    <div>
+        <div class="col-sm-3">
+            <select id="genreDropdown" class="form-select">
+                <option value="">All Genres</option>
+                @foreach (var genre in Model.Genres)
+                {
+                    <option value="@genre.Id" selected="@(genre.Id == Model.SelectedGenreId ? "selected" : null)">@genre.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+</div>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@

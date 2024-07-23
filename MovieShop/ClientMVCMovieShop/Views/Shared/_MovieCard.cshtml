@@ -1,0 +1,21 @@
+<!-- Views/Shared/_MovieCard.cshtml -->
+@model ClientMVCMovieShop.Models.MovieCardModel
+
+<div class="movie-card">
+    <a href="@Url.Action("Details", "Movies", new { id = @Model.Id })"><img src="@Model.PosterUrl" alt="Movie poster" class="movie-poster" /></a>
+</div>
+
+<style>
+    .movie-card {
+        border: 1px solid #ddd;
+        padding: 1px;
+        border-radius: 5px;
+        width: 15%;
+        text-align: center;
+    }
+    .movie-poster {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+</style>
